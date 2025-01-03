@@ -116,6 +116,6 @@ bowling_analysis = aggregated_mount_point+"bowling_analysis/"
 
 # COMMAND ----------
 
-from_mail_id ="gopikrishnaabi5b8@gmail.com"
+from_mail_id ="abc@gmail.com"
 from_mail_id_password="XXX XXX XXX"
-to_email_id = "patapa89@students.rowan.edu"
+to_email_id = "xyz@gmail.com"
